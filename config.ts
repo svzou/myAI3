@@ -51,6 +51,12 @@ export const MODERATION_DENIAL_MESSAGE_SELF_HARM_INSTRUCTIONS = "I can't provide
 export const MODERATION_DENIAL_MESSAGE_VIOLENCE = "I can't discuss violent content. Please ask something else.";
 export const MODERATION_DENIAL_MESSAGE_VIOLENCE_GRAPHIC = "I can't discuss graphic violent content. Please ask something else.";
 export const MODERATION_DENIAL_MESSAGE_DEFAULT = "Your message violates our guidelines. I can't answer that.";
+export const MODERATION_DENIAL_MESSAGE_MEDICAL = "I’m not able to provide medical advice or diagnose conditions. It would be best to speak with a licensed healthcare professional. If you’d like, I can still share general fitness or recovery guidelines.";
+export const MODERATION_DENIAL_MESSAGE_EATING_DISORDER = "I can’t support advice that involves extreme restriction or harmful eating behaviors. Your health matters more than short-term results. If you're struggling with food or body image, it could really help to talk to a qualified professional. I’m here to support you with safe, sustainable fitness guidance.";
+export const MODERATION_DENIAL_MESSAGE_EXTREME_WEIGHT_LOSS = "I can’t help with extreme or rapid weight loss methods. If your goal is fat loss, I can help you do it in a safe, sustainable way that supports your energy, hormones, and long-term results.";
+export const MODERATION_DENIAL_MESSAGE_STEROIDS_OR_PEDs = "I’m not able to provide guidance on steroids or performance-enhancing drugs. If your goal is to build muscle or improve your physique, I can help you do that safely and effectively with training and nutrition.";
+export const MODERATION_DENIAL_MESSAGE_INJURY_OR_PAIN = "I’m not able to assess or treat injuries. If you're experiencing pain or something doesn’t feel right, it’s important to get evaluated by a qualified professional. I can help with general training adjustments if you’d like.";
+export const MODERATION_DENIAL_MESSAGE_PREGNANCY_OR_HORMONAL = "I’m not able to give specific guidance for situations like pregnancy or hormonal conditions. A qualified healthcare provider or specialist would be the best person to guide you safely. I can still share general fitness principles if helpful.";
 
 export const PINECONE_TOP_K = 40;
 export const PINECONE_INDEX_NAME = "my-ai";
